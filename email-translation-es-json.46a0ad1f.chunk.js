@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaxie_strapi_quickstart=self.webpackChunkaxie_strapi_quickstart||[]).push([[5751],{10365:s=>{s.exports={}}}]);
